@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("didnt seem to work");
 		System.out.println("didnt seem to work");
 		System.out.println("what just happened");
+		System.out.println("i dont understand");
+		System.out.println("git is hard to get");
 
 	}
 
